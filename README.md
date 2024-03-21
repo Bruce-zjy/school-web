@@ -1,2 +1,2 @@
 # school-web
-The practice of build a web for school
+A practice of build a web for school
